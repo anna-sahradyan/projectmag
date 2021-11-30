@@ -1,0 +1,22 @@
+
+  [{
+    "part": "images/part1.jpg",
+    "arrow": "images/blue arrow.png",
+    "description": "Get 30% OFF select Nespresso models!",
+    "link": "Show Now"
+  },
+{
+  "part": "images/part2.jpg",
+  "arrow": "images/blue arrow.png",
+  "description": "Rise and shine: Up to 50% OFF bedding clearance!",
+  "link": "Show Now"
+},
+    {
+      "part": "images/part3.jpg",
+      "arrow": "images/blue arrow.png",
+      "description": "Great values on all of your everyday beauty needs!",
+      "link": "Show Now"
+    }
+
+    ]
+

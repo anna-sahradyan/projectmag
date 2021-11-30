@@ -1,0 +1,86 @@
+.footer {
+    position: relative;
+    display: grid;
+    grid-area: footer;
+    width: 100%;
+    background-color: #F9F9F9;
+    margin-top: 70px;
+    height: 100vh;
+    bottom: 0;
+    overflow: hidden;
+
+}
+
+.listInput {
+    position: relative;
+    width: 1200px;
+    margin: auto;
+    /*border: 1px solid red;*/
+
+}
+
+.inputBox {
+    position: relative;
+    width: 500px;
+    border: 2px solid black;
+    border-radius: 3px;
+    /*top: 50px;*/
+
+}
+
+.logo {
+    position: absolute;
+    width: 500px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+    right: 0px;
+    top: -5px;
+    z-index: 2;
+
+}
+
+.logo img {
+    width: 20px;
+}
+
+.footerList {
+    position: relative;
+    width: 700px;
+    margin-left: 70px;
+    margin-top:calc(3%);
+
+}
+
+.footerList ul {
+    display: flex;
+}
+
+.part {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+}
+
+.brand {
+    position: relative;
+    width: 1000px;
+    height: 150px;
+    display: flex;
+    top: 100px;
+    margin-left: 0px;;
+}
+
+.brand span {
+    position: relative;
+    color: #8F8F8F;
+    display: inline-block;
+    margin-top: 13px;
+}
+.copy{
+    margin-left: 0px;
+    color: #8F8F8F;
+}
+h6{
+    color: #8F8F8F;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}

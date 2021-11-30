@@ -1,0 +1,73 @@
+.carousel {
+    position: relative;
+    width: 1300px;
+    height: 500px;
+    margin: auto;
+    margin-top: 200px;
+    z-index: 1;
+    box-shadow: 0 10px 26px #a3a3a3;
+
+
+}
+
+.carousel img {
+    width: 100%;
+    height: 500px;
+
+}
+
+.textSlider {
+    width: 315px;
+    height: 200px;
+    position: absolute;
+    background: #E3A919;
+    top: -150px;
+    left: -150px;
+    border-radius: 100px;
+    border: double 8px #E3A919;
+    background-clip: padding-box;
+
+}
+
+.text p {
+    position: absolute;
+    width: 200px;
+    height: auto;
+    margin-left: 50px;
+    text-align: center;
+
+
+}
+
+.textNav {
+    display: block;
+    position: absolute;
+    margin-top: -25px;
+    left: 80px;
+    bottom: 0;
+
+}
+
+.textSlider2 {
+    width: 315px;
+    height: 200px;
+    position: absolute;
+    background: #7E7473;
+    top: -150px;
+    left: -150px;
+    border-radius: 100px;
+    border: double 8px #7E7473;
+    background-clip: padding-box;
+}
+
+.textSlider3 {
+    width: 315px;
+    height: 200px;
+    position: absolute;
+    background: #143DA5;
+    top: -150px;
+    left: -150px;
+    border-radius: 100px;
+    border: double 8px #143DA5;
+    background-clip: padding-box;
+}

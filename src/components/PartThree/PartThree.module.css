@@ -1,0 +1,113 @@
+.contentDiv {
+    width: 100%;
+    position: relative;
+    margin-top: 70px;
+
+
+}
+
+
+.card {
+    display: grid;
+    position: relative;
+    width: 550px;
+    height: 290px;
+    border-top: 3px solid red;
+    background-color: #F9F9F9;
+
+}
+
+
+.cardPart {
+    display: grid;
+    grid-template: repeat(3, 350px) /repeat(2, 580px);
+    /*grid-column-gap: 150px;*/
+    width: 1200px;
+    margin: auto;
+    margin-top: 30px;
+  justify-content: space-between;
+
+
+}
+
+.content h2 {
+    position: absolute;
+    top: -30px;
+    margin-left: 500px;
+
+
+}
+
+.content h2 img {
+    width: 20px;
+}
+
+.contImage {
+    width: 250px;
+    height: 280px;
+    padding: 0;
+}
+
+/*span {*/
+
+/*    display: block;*/
+/*    width: 100px;*/
+/*    position: absolute;*/
+
+/*}*/
+
+.pers {
+    width: 40px;
+    position: absolute;
+    left: 10px;
+    border-radius: 50px;
+    top: 0;
+
+}
+
+.description {
+    position: absolute;
+    width: 255px;
+    height: 280px;
+    left: 255px;
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+.description h5 {
+    position: absolute;
+    margin-top: 15px;
+    width: 100%;
+    height: 100px;
+
+}
+
+.titleTwo {
+    position: absolute;
+    width: 170px;
+    height: 100px;
+    text-align: center;
+    bottom: 30px;
+}
+
+.part {
+    display: block;
+    position: absolute;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    bottom: 0;
+    width: 150px;
+}
+
+.part img {
+    position: absolute;
+    width: 25px;
+    height: auto;
+    right: 0px;
+}
+
+.part img:hover {
+    transition: 1.5s ease;
+    width: 40px;
+}

@@ -1,0 +1,128 @@
+
+.header {
+    display: grid;
+    grid-auto-flow: column;
+    margin: 0;
+    /*background-color: #f9f7f9;*/
+
+}
+
+.cartSection {
+    position: absolute;
+    left: 1200px;
+}
+
+
+.logo {
+    margin-left: 5px;
+}
+
+.form {
+    position: absolute;
+    width: 500px;
+    z-index: 1;
+
+}
+
+.inputSearch {
+    width: 500px;
+    position: absolute;
+    margin-top: -60px;
+    left: 400px;
+    z-index: 2;
+
+}
+
+.hide {
+    display: none;
+}
+
+
+.searchInput::placeholder {
+    position: absolute;
+    margin-left: 30px;
+    color: #009BCB;
+}
+
+
+/*.zoom {*/
+/*    width: 15px;*/
+/*    position: absolute;*/
+/*    left: 10px;*/
+/*    top: 10px;*/
+/*    cursor: pointer;*/
+/*    z-index: 1;*/
+/*}*/
+
+
+.remove {
+    position: absolute;
+    left: 450px;
+    margin-top: -23px;
+    z-index: 2;
+
+}
+
+.cart {
+    width: 200px;
+    position: relative;
+    height: 40px;
+    background: #009BCB;
+    border-radius: 8%;
+    z-index: 1;
+    display: grid;
+    margin-left: -60px;
+    grid-auto-flow: column;
+    font-family: ' Arial sans-serif';
+
+
+}
+
+.cartSpan {
+    top: -8px;
+    position: relative;
+    z-index: 1;
+    margin-left: 20px;
+
+}
+.basket{
+    position: relative;
+    z-index: 1;
+    top: 10px;
+}
+.cartCount {
+    position: relative;
+    margin-top: 6px;
+    display: grid;
+
+}
+
+/*headerAuth part*/
+.sectionGuest {
+    position: relative;
+    width: 300px;
+    margin-left: 200px;
+    z-index: 2;
+}
+
+.profile {
+    position: absolute;
+    margin-left: 100px;
+    z-index: 1;
+}
+
+.profile h5 {
+    color: #009BCB;
+    margin-left: 200px;
+    margin-top: 5px;
+
+}
+
+.btnLog {
+    position: absolute;
+    left: 350px;
+    z-index: 1;
+    top: 3px;
+    height: 30px;
+    width: 70px;
+}

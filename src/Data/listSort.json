@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "text": "What is New",
+    "link": "/homedecor"
+  },
+  {
+    "id": 2,
+    "text": "Popularity",
+    "link": "/homedecor"
+  },
+  {
+    "id": 3,
+    "text": "Better Discount",
+    "link": "/"
+  },
+  {
+    "id": 4,
+    "text": "Price:High to Low",
+    "link": "/"
+  },
+  {
+    "id":5,
+    "text":"Price:Low to High",
+    "link": "/"
+  },
+  {
+    "id": 6,
+    "text":"Customer Rating",
+    "link": "/"
+  }
+]

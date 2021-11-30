@@ -1,0 +1,58 @@
+.sort {
+    width: 250px;
+    position: absolute;
+    right: 0;
+    color: #7D7F7F;
+    font-family:  Arial, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    z-index: 1;
+    height: 300px;
+
+
+}
+.active{
+    color: rosybrown;
+}
+.imgSort {
+    width: 30px;
+    position: absolute;
+    right: 10px;
+    top: -3px;
+}
+
+.categorySort span {
+    width: 100%;
+    margin-left: 10px;
+
+}
+.categorySort{
+    border: 1px solid #7D7F7F;
+}
+
+.sortList {
+    position: absolute;
+    width: 100%;
+    z-index: 1;
+
+}
+
+a {
+    color: #7E7473;
+    display: inline-block;
+    padding: 10px;
+
+
+}
+a:hover{
+    text-decoration: none;
+}
+
+.sort:hover .categorySort {
+    border: none;
+
+}
+
+.sort:hover {
+    border: 1px solid #7D7F7F;
+}

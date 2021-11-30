@@ -1,0 +1,395 @@
+
+.contentCart {
+    width: 100%;
+    position: relative;
+    height: auto;
+    color: #7E7473;
+    margin-top: 30px;
+
+}
+
+.content {
+    width: 1200px;
+    margin: auto;
+    /*border: 1px solid black;*/
+    height: 600px;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+.bag {
+    color: limegreen;
+    border-bottom: 2px solid limegreen;
+}
+
+h6 {
+    margin-left: calc(35%);
+    font-family: "Candara Light";
+}
+
+hr {
+    border: 1px;
+    width: 100%;
+}
+
+.cartLineRight {
+    position: relative;
+    width: 550px;
+    border-right: 1px solid #EAEAEC;
+    top: 0;
+    height: auto;
+    margin: auto;
+
+}
+
+.pin {
+    width: 500px;
+    height: 90px;
+    border: 1px solid #EAEAEC;
+    position: relative;
+    display: grid;
+    grid-auto-flow: column;
+    margin-left: 30px;
+    border-radius: 5px;
+}
+
+.pin p {
+    margin-top: 20px;
+    margin-left: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.pinBtn {
+    margin-top: 20px;
+    border: 0.3px solid #009BCB;
+    color: #009BCB;
+    width: 200px;
+    height: 40px;
+
+}
+
+
+.offersList {
+    margin-top: 10px;
+    width: 500px;
+    height: auto;
+    border: 1px solid #EAEAEC;
+    border-radius: 5px;
+    list-style-type: circle;
+    margin-left: 30px;
+
+}
+
+.offersList li {
+    margin-left: 40px;
+}
+
+.cartItem {
+    width: 500px;
+    display: grid;
+    grid-template: repeat(1, 50px) / repeat(2, 200px);
+    margin-top: 5px;
+    justify-content: space-between;
+    margin-left: 30px;
+    text-align: center;
+    color: #7E7473;
+}
+
+.cartImages {
+    border-radius: 5px;
+    position: relative;
+    width: 500px;
+    margin-left: 30px;
+    height: 250px;
+    border: 1px solid #EAEAEC;
+
+}
+
+.cartImagesImg {
+    width: 110px;
+    height: 150px;
+    margin-top: 10px;
+    margin-left: 10px;
+
+
+}
+
+.cartImages hr {
+    width: 480px;
+    margin: auto;
+}
+
+.cartBtn {
+    position: relative;
+    display: grid;
+    grid-template-rows:minmax(20px, 1fr);
+    grid-template-columns: minmax(100px, 1fr) minmax(100px, 1fr) minmax(200px, 1fr);
+    justify-content: space-between;
+    z-index: 1;
+}
+
+.cartBox {
+    width: 100%;
+    position: absolute;
+    display: grid;
+    grid-template-columns:30% 30% 30%;
+    margin-top: -130px;
+    z-index: 1;
+}
+
+.btnM, .btnEl, .btnI {
+    position: absolute;
+    border: 1px solid #EAEAEC;
+    margin-left: 150px;
+    width: 70px;
+    height: 30px;
+    z-index: 1;
+    top: 70px;
+    text-align: center;
+
+
+}
+
+.btnM {
+    margin-left: 250px;
+}
+
+.btnI {
+    margin-left: 350px;
+}
+
+.btnR, .btnW, .btnH {
+    color: #7E7473;
+
+}
+
+
+.cartPcost {
+    position: absolute;
+    width: 100px;
+    top: 20px;
+    margin-left: 400px;
+    color: #7E7473;
+
+}
+
+.cartPnav {
+    position: absolute;
+    width: 250px;
+    top: 15px;
+    margin-left: 130px;
+    color: #7E7473;
+    z-index: 1;
+
+}
+
+.wishlist {
+    width: 500px;
+    border: 1px solid #EAEAEC;
+    border-radius: 5px;
+    margin-left: 30px;
+    margin-top: 5px;
+
+}
+
+.wishlist a {
+    color: #7E7473;
+
+}
+
+.wishlist img:hover {
+    cursor: pointer;
+    transform: scale(0.7);
+    transition: all 1.5s;
+}
+
+/*couponList*/
+
+/*.cartLineTwo {*/
+/*    position: relative;*/
+/*    width: 350px;*/
+/*    !*margin-left: 260px;*!*/
+/*    z-index: 2;*/
+/*    margin-top: -520px;*/
+
+
+/*}*/
+
+.cartLineTwo h6 {
+    margin-left: 10px;
+}
+
+.cartLineTwo hr {
+    width: 300px;
+    margin: auto;
+}
+
+.coupon {
+    width: 300px;
+    display: grid;
+    justify-content: space-between;
+    margin-left: 10px;
+}
+
+.couponApply {
+
+}
+
+.btnCoupon {
+    position: relative;
+    width: 90px;
+    height: 40px;
+    margin-left: 60px;
+    border: 0.3px solid #009BCB;
+    color: #009BCB;
+
+}
+
+.loginCoupon {
+    margin-left: 0px;
+    position: relative;
+    display: flex;
+    margin-top: -5px;
+
+}
+
+.loginCoupon a {
+    color: #009BCB;
+    margin-top: -10px;
+
+}
+
+.gifImg {
+    margin-left: 10px;
+    margin-top: 10px;
+    height: 200px;
+}
+
+.gifImg img {
+    margin-top: 20px;
+}
+
+.gifImg h6 {
+    margin-top: 10px;
+}
+
+.btnOrder {
+    position: relative;
+    width: 280px;
+    height: 40px;
+    background: #009BCB;
+    margin: auto;
+    text-align: center;
+    margin-top: 20px;
+    border-radius: 5px;
+
+}
+
+/*====================cartEmpty*/
+.emptyBlock h1 {
+    margin-left: 500px;
+    color: #007BFF;
+
+
+}
+
+.emptyImg {
+    margin-left: 400px;
+}
+
+.emptyBtn {
+    margin-top: 30px;
+    margin-left: 500px;
+}
+
+
+/*emptiwishlist*/
+.contentDivWish {
+    width: 100%;
+    height: 100vh;
+
+}
+
+.contentWish {
+    position: relative;
+    width: 1200px;
+    margin: auto;
+    height: 100%;
+}
+
+.emptyWishList {
+    position: relative;
+    height: 100vh;
+}
+
+.emptyWishList > h1 {
+    margin-left: 500px;
+    color: #E2CBBB;
+
+}
+
+.emptyWishList > h6 {
+    position: relative;
+    left: 50px;
+    z-index: 1;
+
+}
+
+.wishImg {
+    position: absolute;
+    margin-left: 400px;
+    z-index: 2;
+    top: 130px;
+}
+
+.emptyBtnWish {
+    position: absolute;
+    z-index: 1;
+    bottom: 20px;
+    margin-left: 500px;
+
+}
+
+/*cardsection*/
+
+
+.contentDiv {
+    width: 100%;
+    height: 100%;
+    position: relative;
+
+}
+
+.content {
+    width: 1200px;
+    height: 100vh;
+    margin: auto;
+
+}
+
+.formContent {
+    position: absolute;
+    top: 20px;
+    width: 500px;
+    height: 650px;
+
+}
+
+.cardBox {
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    margin-top: 200px;
+}
+
+
+
+
+
+
+
+

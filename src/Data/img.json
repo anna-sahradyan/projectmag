@@ -1,0 +1,30 @@
+[
+  {
+    "img": "/images/facebook.png",
+    "navlink": "/",
+    "brand": "/images/brand-1.jpg"
+  },
+  {
+    "img": "/images/tweet.png",
+    "navlink": "/",
+    "brand": "/images/brand-4.jpg"
+  },
+  {
+    "img": "/images/pinterest.png",
+    "navlink": "/",
+    "brand": "/images/brand-3.jpg"
+  },
+  {
+    "img": "/images/instagram.png",
+    "navlink": "/",
+    "brand": "/images/brand-2.jpg"
+  },
+  {
+    "img": "/images/youtube.png",
+   " navlink": "/",
+    "brand": "/images/brand-6.jpg"
+  }
+
+
+
+]

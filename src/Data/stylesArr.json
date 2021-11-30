@@ -1,0 +1,61 @@
+[
+  {
+    "image": "images/slide1.jpg",
+    "h2": "Best Holiday",
+    "h1": "Weekend Deals",
+    "p":"Save 20% on Qualifying items when you purchase 1 or more Qualifying items offered",
+    "navlink": "View Collection",
+    "styles":
+    {
+      "border": "double 8px #E3A919",
+      " width": "315px",
+      " position": "absolute",
+      " background": "#143DA5",
+      " top": "-150px",
+      "left": "-150px",
+      " border-radius": "100px",
+      " background-clip": "padding-box"
+    }
+  },
+  {
+    "image": "images/kitchen1.jpg",
+    "h2": "Best Holiday",
+    "h1": "Weekend Deals",
+    "p": "Save 20% on Qualifying items when you purchase 1 or more Qualifying items offered",
+    "navLink": "View Collection",
+    "styles":
+    {
+      "border": "double 8px #7E7473",
+      " width": "315px",
+      " position": "absolute",
+      " background": "#143DA5",
+      " top": "-150px",
+      "left": "-150px",
+      " border-radius": "100px",
+      " background-clip": "padding-box"
+    }
+
+  },
+  {
+    "image": "images/comp.webp",
+    "h2": "Best Holiday",
+    "h1": "Weekend Deals",
+    "p":"Save 20% on Qualifying items when you purchase 1 or more Qualifying items offered",
+    "navlink": "View Collection",
+    "stayles":
+    {
+      "border": "double 8px #143DA5",
+      " width": "315px",
+      "position": "absolute",
+      " background": "#143DA5",
+      " top": "-150px",
+      " left": "-150px",
+      "border-radius": "100px",
+      " background-clip": "padding-box"
+    }
+
+
+  }
+
+
+]

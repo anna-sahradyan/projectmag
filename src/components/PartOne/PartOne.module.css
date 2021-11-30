@@ -1,0 +1,71 @@
+
+.partOne {
+    position: relative;
+    width: 100%;
+    display: grid;
+
+
+}
+
+.mainPart {
+    position: absolute;
+    display: flex;
+    z-index: 1;
+    margin-top: 3px;
+}
+
+.part {
+    position: relative;
+    width: 400px;
+    height: 200px;
+    background: rgba(255, 255, 255, 0.9);
+    box-sizing: border-box;
+    /* box-shadow:  0 10px 10px #a3a3a3; */
+
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.part img {
+
+    width: 200px;
+
+}
+
+.partSpan {
+    position: absolute;
+    display: block;
+    width: 160px;
+    height: 100px;
+    left: 230px;
+    top: 30px;
+    color: black;
+    font-size: 18px;
+
+
+}
+
+.part a {
+    position: absolute;
+    display: block;
+    text-decoration: none;
+    color: #009BCB;
+    top: 125px;
+    left: 230px;
+}
+
+.part a img {
+    position: absolute;
+    width: 15px;
+    height: auto;
+    margin: calc(7%);
+}
+.part a img:hover{
+    transition: 1.5s ease;
+    margin-top:-2px;
+    width: 40px;
+}
+
+
+/*----------*/
+

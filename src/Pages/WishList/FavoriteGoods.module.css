@@ -1,0 +1,71 @@
+.contentDiv {
+    position: relative;
+    top: 10px;
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+    font-style: italic;
+}
+
+.content {
+    position: relative;
+    width: 1200px;
+    z-index: 1;
+    margin: auto;
+    height: auto;
+
+
+}
+
+.wishList {
+    position: relative;
+    width: 900px;
+    top: 0;
+    height: auto;
+    margin: auto;
+
+}
+
+.cartImages {
+    border-radius: 5px;
+    position: relative;
+    width: 100%;
+    margin-left: 30px;
+    margin-top: 20px;
+    height: 250px;
+    border: 2px solid #EAEAEC;
+}
+
+.cartImagesImg {
+    width: 110px;
+    height: 150px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.iconList {
+
+}
+.rightPart{
+    width: 300px;
+    height: 500px;
+    position: absolute;
+    left: 230px;
+    top: 20px;
+    z-index: 1;
+}
+.titleP{
+    color: #B3B3B3;
+}
+.costP{
+
+}
+.textArea{
+    position: absolute;
+    left: 630px;
+    top: 30px;
+    z-index: 1;
+    color: #B3B3B3;
+}
+.textPart:hover{
+    cursor:pointer;
+}

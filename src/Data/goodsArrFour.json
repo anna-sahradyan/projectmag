@@ -1,0 +1,33 @@
+[
+  {
+    "images": "images/part5-1.jpg",
+    "NavLink": "/",
+    "title": "Thanksgiving"
+  },
+  {
+    "images": "images/part5-2.jpg",
+    "NavLink": "/",
+    "title": "Hanukkah"
+  },
+  {
+    "images": "images/part5-3.jpg",
+    "NavLink": "/",
+    "title": "Christmas"
+  },
+  {
+    "images": "images/part5-4.jpg",
+    "NavLink": "/",
+    "title": "New Years"
+  },
+  {
+    "images": "images/part5-5.jpg",
+    "NavLink": "/",
+    "title": "Halloween"
+
+  },
+  {
+    "images": "images/part5-6.jpg",
+    "NavLink": "/",
+    "title": "All Holiday"
+  }
+]

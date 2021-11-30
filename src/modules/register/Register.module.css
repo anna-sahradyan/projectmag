@@ -1,0 +1,103 @@
+.contentDiv {
+    width: 100%;
+    position: relative;
+    height: 100vh;
+    margin-top: 50px;
+}
+
+.content {
+    width: 1200px;
+    margin: auto;
+    height: 100vh;
+
+}
+
+.content h2 {
+
+    position: absolute;
+    margin-left: 550px;
+    top: 40px;
+    color: white;
+    z-index: 1;
+
+}
+
+.container {
+    display: flex !important;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: rgb(2, 0, 36);
+    background: linear-gradient(331deg, rgba(2, 0, 36, 1) 0%, rgba(139, 88, 94, 1) 0%, rgba(53, 101, 125, 1) 14%, rgba(40, 127, 156, 1) 29%, rgba(0, 212, 255, 1) 100%) !important;
+
+
+}
+
+.container > form {
+    width: 30%;
+    border: 1px solid #dfdfdf;
+    padding: 20px;
+    border-radius: 5px;
+    background: #fff;
+}
+
+p {
+    color: red;
+}
+
+.field {
+    padding: 15px;
+}
+
+button {
+    padding: 15px;
+}
+
+/*layout*/
+.contentDivLayout{
+    width: 100%;
+    position: relative;
+    height: auto;
+    margin-top: 50px;
+
+}
+.contentAccount {
+    position: relative;
+    /*display: grid;*/
+    /*width: 1200px;*/
+    /*margin: auto;*/
+    /*grid-template-columns:10% 90%;*/
+    /*grid-template-rows: 100%;*/
+    /*z-index: -3;*/
+    /*height: auto;*/
+
+}
+
+.linkPage {
+    width: 500px;
+
+}
+
+.linkPage h4 {
+    color: #009BCB;
+}
+
+.linkList {
+    width: 250px;
+    position: relative;
+}
+
+.linkList > h5 {
+    position: relative;
+    margin-left: 0;
+}
+
+.cartPart {
+    position: relative;
+    width: 600px;
+    margin-left:300px;
+    margin-top: -300px;
+    z-index: 2;
+    /*height: auto;*/
+}

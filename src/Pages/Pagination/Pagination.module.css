@@ -1,0 +1,19 @@
+/*Pagination part */
+.contentDiv {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+}
+
+.content {
+    position: relative;
+    width: 1200px;
+    margin: auto;
+    min-height: 100vh;
+    top: 70px;
+    border: 1px solid #8F8F8F;
+}
+
+
+

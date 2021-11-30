@@ -1,0 +1,58 @@
+[
+  {
+    "articul": "1p",
+    "images": "images/pillow2bad.jpg",
+    "description": "Save on Tempur-Pedic® Pillows, Mattress Toppers, Comforters",
+    "descriptionP": "Excludes Mattresses.Valid thru 10/28.",
+    "NavLink": "Shop Now",
+    "NavLinkI": "images/blue arrow.png",
+    "percent": "images/percent10.jpg"
+
+  },
+  {
+    "articul": "2w",
+    "images": "images/wine.jpg",
+    "description": "Save Big on Starbucks® Verismo™ Pods and Syrups",
+    "descriptionP": "Valid thru 11/10",
+    "NavLink": "Shop Now",
+    "NavLinkI": "images/blue arrow.png",
+    "percent": "images/percent30.jpg"
+  },
+  {
+    "articul": "3wp",
+    "images": "images/wallP.jpg",
+    "description": "Great Deals on Select Wall Art!",
+    "descriptionP": "Valid thru 10/23.",
+    "NavLink": "Shop Now",
+    "NavLinkI": "images/blue arrow.png",
+    "percent": "images/percent50.jpg"
+  },
+
+  {
+    "articul": "4b",
+    "images": "images/bath1.jpg",
+    "description": "Great Deals on Bath Towels and Rugs and bath mats!",
+    "descriptionP": "Stylish pieces to upgrade your space for less. While supplies..",
+    "NavLink": "Shop Now",
+    "NavLinkI": "images/blue arrow.png",
+    "percent": "images/percent10.jpg"
+  },
+  {
+    "articul": "5b",
+    "images": "images/blanket2.jpg",
+    "description": "Save on Electric Blankets and Mattress Pads",
+    "descriptionP": "Clearance. While supplies last.",
+    "NavLink": "Shop Now",
+    "NavLinkI": "images/blue arrow.png",
+    "percent": "images/percent50.jpg"
+  },
+  {
+    "articul": "6s",
+    "images": "images/sale3.png",
+    "description": "New Deals Added! Get Steals for Every Room",
+    "NavLink": "Shop Now",
+    "NavLinkI": "images/blue arrow.png",
+    "percent": "images/percent20.jpg"
+  }
+
+]

@@ -1,0 +1,32 @@
+[{"articul":"1k",
+  "description":"Kitchen",
+  "images":"images/part2cofe.jpg"
+},
+  {
+    "articul":"2b",
+    "description":"Bedding",
+    "images":"images/part2bad.jpg"
+  },
+  {
+    "articul":"3hd",
+    "description":"Home Decor",
+    "images":"images/part2flo.jpg"
+  },
+  {
+    "articul":"4c",
+    "description":"Dining",
+    "images":"images/part2cup.jpg"
+  },
+  {
+    "articul":"5b",
+    "description":"Storage & Cleaning",
+    "images":"images/part2box.jpg"
+  },
+  {
+    "articul":"6p",
+    "description":"Bath",
+    "images":"images/part2paw.jpg"
+  }
+
+
+]

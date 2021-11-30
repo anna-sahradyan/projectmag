@@ -1,0 +1,67 @@
+.contentDiv {
+    margin-top: 70px;
+    width: 100%;
+    position: relative;
+    height: 270px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.content {
+
+    width: 1200px;
+    margin: auto;
+    height: 250px;
+    background-color: #F9F9F9;
+
+}
+
+.card {
+    width: 100%;
+    height: 350px;
+    display: grid;
+    grid-template: repeat(1, 350px)/repeat(2, 600px);
+
+}
+
+.wedding {
+    width: 600px;
+    margin-right: 0px;
+    margin-top: -4px;
+
+
+}
+
+.text {
+    width: 600px;
+    margin-left: 20px;
+}
+.text h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.text p{
+    width: 350px;
+    font-size: 16px;
+    color: #8F8F8F;
+
+}
+.arrow{
+    position: absolute;
+    width: 25px;
+    height: auto;
+
+}
+
+.arrow:hover {
+    position: absolute;
+    transition: 1.5s ease;
+    width: 40px;
+    margin-top: -4px;
+}
+.textDiv{
+    position: absolute;
+    margin-bottom: 10px;
+}
+.navlink{
+    text-decoration: none !important;
+}
