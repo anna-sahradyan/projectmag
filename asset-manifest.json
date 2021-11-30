@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/projectmag/static/css/main.bee387e2.chunk.css",
+    "main.js": "/projectmag/static/js/main.1b40cfa8.chunk.js",
+    "main.js.map": "/projectmag/static/js/main.1b40cfa8.chunk.js.map",
+    "runtime-main.js": "/projectmag/static/js/runtime-main.73807acb.js",
+    "runtime-main.js.map": "/projectmag/static/js/runtime-main.73807acb.js.map",
+    "static/css/2.709681ee.chunk.css": "/projectmag/static/css/2.709681ee.chunk.css",
+    "static/js/2.85b735ea.chunk.js": "/projectmag/static/js/2.85b735ea.chunk.js",
+    "static/js/2.85b735ea.chunk.js.map": "/projectmag/static/js/2.85b735ea.chunk.js.map",
+    "index.html": "/projectmag/index.html",
+    "static/css/2.709681ee.chunk.css.map": "/projectmag/static/css/2.709681ee.chunk.css.map",
+    "static/css/main.bee387e2.chunk.css.map": "/projectmag/static/css/main.bee387e2.chunk.css.map",
+    "static/js/2.85b735ea.chunk.js.LICENSE.txt": "/projectmag/static/js/2.85b735ea.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/projectmag/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73807acb.js",
+    "static/css/2.709681ee.chunk.css",
+    "static/js/2.85b735ea.chunk.js",
+    "static/css/main.bee387e2.chunk.css",
+    "static/js/main.1b40cfa8.chunk.js"
+  ]
+}
