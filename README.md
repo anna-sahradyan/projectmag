@@ -11,6 +11,9 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [https://project-3ccc0.firebaseapp.com/](https://project-3ccc0.firebaseapp.com/) to view it in the browser.
 
+![Screenshot 2021-12-03 030554](https://user-images.githubusercontent.com/71427017/144592675-5b70d70e-aab7-4e5e-9f4a-01d8a2a939d5.png)
+
+
 
 ### `Oписание
 
