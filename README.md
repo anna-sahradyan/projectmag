@@ -4,7 +4,7 @@
 Runs the app in the development mode.\
 Open [https://project-3ccc0.firebaseapp.com/](https://project-3ccc0.firebaseapp.com/) to view it in the browser.
 
-### `Этот сайт я специально написала  для резюме ,это не дипломная работа!!!` 
+### `Это не дипломная работа!!!` 
 
 ### `Oписание`
 
